@@ -1,0 +1,12 @@
+{   'language_types': ["atomic", "atomic"],
+    'overlap_toks': 
+    {2: [[0, 1]],
+     47: [[0, 1]],
+     16: [[0, 1]],
+     58: [[0, 1]],
+     48: [[0, 1]],
+     3: [[0, 1]],
+     51: [[0, 1]],
+     1: [[0, 1]],},
+    'train_seed': 42,
+    'unified_output': False,}

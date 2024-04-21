@@ -1,0 +1,5 @@
+{   'language_types': ["atomic", "atomic", "atomic", "atomic", "atomic", "atomic", "atomic", "atomic", "atomic", "atomic"],
+    'overlap_toks': 
+    {},
+    'train_seed': 42,
+    'unified_output': False,}
