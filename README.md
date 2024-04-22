@@ -2,7 +2,7 @@
 
   
 
-This repository contains the code for running experiments presented in [mOthello: When Do Cross-Lingual Representation Alignment and Cross-Lingual Transfer Emerge in Multilingual Models?] 
+This repository contains the code for running experiments presented in [mOthello: When Do Cross-Lingual Representation Alignment and Cross-Lingual Transfer Emerge in Multilingual Models?](https://arxiv.org/abs/2404.12444)
 
 The implementation of GPT2 is based on [minGPT](https://github.com/karpathy/minGPT), and the overall codebase is mostly built on [Othello World](https://github.com/likenneth/othello_world). Many thanks to Andrej Karpathy and Kenneth Li for open-sourcing their projects!
 
@@ -18,17 +18,16 @@ The implementation of GPT2 is based on [minGPT](https://github.com/karpathy/minG
 
   
 
-1. [Installation](#installation)
-
-2. [Defining a multilingual Othello Instance](#defining-a-multilingual-othello-instance)
-
-3. [Training mOthelloGPT](#training-mothellogpt)
-
-4. [Probing mOthelloGPT](#probing-mothellogpt)
-
-5. [Running Finetuning Experiments](#running-finetuning-experiments)
-
-6. [How to Cite](#how-to-cite)
+- [Multilingual Othello](#multilingual-othello)
+  - [Abstract](#abstract)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Defining a Multilingual Othello Instance](#defining-a-multilingual-othello-instance)
+  - [Training mOthelloGPT](#training-mothellogpt)
+  - [Probing mOthelloGPT](#probing-mothellogpt)
+  - [Running Metrics](#running-metrics)
+  - [Running Finetuning Experiments](#running-finetuning-experiments)
+  - [How to Cite](#how-to-cite)
 
   
 
